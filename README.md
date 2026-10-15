@@ -5,3 +5,7 @@ I'm a software engineer with a passion for financial markets and the systems tha
 I enjoy owning meaningful work, from understanding the problem to shipping a solution and improving it based on how people use it. My interests span backend systems, full-stack development, and AI products that solve practical problems.
 
 I like working across the stack, digging into how things work, and learning alongside engineers who challenge my thinking and share what they know.
+
+## Away from the keyboard
+
+You'll usually find me playing soccer, lifting at the gym, or experimenting in the kitchen. I take meal prep seriously, although somehow it still creates enough dishes to qualify as a second workout.
